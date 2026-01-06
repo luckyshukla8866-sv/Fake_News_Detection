@@ -10,3 +10,9 @@ Data/
 # Python cache
 __pycache__/
 *.pyc
+*.zip
+*.bin
+*.h5
+*.onnx
+glove.6B*
+data/*.csv
