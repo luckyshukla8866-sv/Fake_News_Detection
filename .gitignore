@@ -1,0 +1,12 @@
+# Virtual environment
+tf_env/
+
+# Pretrained embeddings (VERY LARGE)
+glove.6B/
+
+# Dataset (optional but recommended)
+Data/
+
+# Python cache
+__pycache__/
+*.pyc
